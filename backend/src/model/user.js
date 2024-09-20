@@ -47,7 +47,6 @@ const userSchema = new Schema({
            },
            money: {
             type: Number,
-            type
            }
             
         }
